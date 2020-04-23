@@ -1,9 +1,7 @@
 
 x = input()
-
 x = x.split(' ')
 x = [int(i) for i in x]
-# print(x)
 len=len(x)
 x2=[0]*len
 if len==0:
@@ -13,7 +11,6 @@ elif len==1:
 elif len==2:
     x2[len-1]=max(x[0],x[1])
 else:
-
     x2[0]=x[0]
     x2[1]=max(x[0],x[1])
 

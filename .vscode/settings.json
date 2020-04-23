@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.asm": "asm-collection",
+        "*.cpp": "cpp",
+        "bitset": "cpp",
+        "string": "cpp"
+    },
+    "python.pythonPath": "C:\\ProgramData\\Anaconda3\\python.exe"
+}
